@@ -216,4 +216,4 @@ ZGestión is available as a full free version, including all features and update
 Unlock the potential of your business today with **ZGestión** — download now and experience the difference!
 
 ---
-**Last updated:** 2026-11-13 21:15:12 UTC
+**Last updated:** 2026-11-14 02:01:39 UTC
